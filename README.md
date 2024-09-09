@@ -12,9 +12,10 @@
 - Accounts Management
 - Contract Management
 - Process Management
+- Application Management
 - Qualification Requirement Management
 - Credit Evaluation Management
 - Approval Management
-- Payment Management
+- Disbursement Management
 - Post Managment Management
-- Payoff Management
+- Repayment Management
