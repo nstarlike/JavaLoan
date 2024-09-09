@@ -7,7 +7,6 @@
 - MSA
 
 ## Features
-- Borrowers Management
 - Products Management
 - Accounts Management
 - Contract Management
