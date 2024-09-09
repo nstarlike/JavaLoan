@@ -1,5 +1,5 @@
 # JavaLoan
-
+ Loan is major
 ## Architecture
 - MSA
 
@@ -12,6 +12,6 @@
 - Qualification Requirement Management
 - Credit Evaluation Management
 - Approval Management
-- Servicing Management
+- Payment Management
 - Post Managment Management
-- Collection Management
+- Payoff Management
